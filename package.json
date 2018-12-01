@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/Spooore/AuctionHouse#readme",
   "engines": {
-    "node": "8.11.2"
+    "node": "11.x"
   }
 }
