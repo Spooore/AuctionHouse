@@ -29,5 +29,15 @@
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0-0",
     "vue-template-compiler": "^2.5.17"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "tests"
+  },
+  "engines": {
+    "node": "8.11.2"
+  },
+  "author": "",
+  "license": "ISC"
 }
