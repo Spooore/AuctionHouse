@@ -1,0 +1,32 @@
+{
+  "name": "auctionhouse",
+  "version": "1.0.0",
+  "description": "FSF",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spooore/AuctionHouse.git"
+  },
+  "keywords": [
+    "fsf"
+  ],
+  "author": "Spooore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spooore/AuctionHouse/issues"
+  },
+  "homepage": "https://github.com/Spooore/AuctionHouse#readme",
+  "engines": {
+    "node": "8.11.2"
+  }
+}
